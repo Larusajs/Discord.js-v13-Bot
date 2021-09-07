@@ -6,7 +6,7 @@ Clean Discord.js v13 bot engine. It is basically written for the use of your bot
 **-** Understandable
 
 
-**İnstallation and Run**
+**Installation and Run**
 
 **1-** Go into the src file and enter the Structures file. Fill in the config file there according to your bot's information.
 
