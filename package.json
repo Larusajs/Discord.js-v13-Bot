@@ -1,0 +1,14 @@
+{
+  "name": "larusa-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Larusa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.2675b08.1627646567"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
