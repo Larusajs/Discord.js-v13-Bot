@@ -13,3 +13,5 @@ Clean Discord.js v13 bot engine. It is basically written for the use of your bot
 **2-** **npm install**
 
 **3-** Then we run the run.bat file.
+
+**In Dev**
